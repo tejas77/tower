@@ -1,6 +1,8 @@
 # Tower : A React-Native Device-Motion Example App
 a simple example on how to use device motion in react-native application using expo.
 
+#### Check out the [Medium Post](https://levelup.gitconnected.com/tower-a-react-native-device-motion-example-app-8a8e81d333c3?source=friends_link&sk=f4d3e25a59768456432b7a9654d96efd) for detailed explanation.
+
 ## Getting Started
 I was looking into the Apple's Compass application which also has the leveling feature. I thought of creating the same application as an example to understand the physics of mobile device motion. After many thoughts, I thought to create an application which will show an illusion of a cylinder tower standing out with a shadow and our motion is the camera view looking at cylinder from different angles.
 
